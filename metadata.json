@@ -1,0 +1,5 @@
+{
+  "name": "Visual Analysis Engine",
+  "description": "A professional tool for reverse-engineering images into structured JSON and applying layered parameter modifications.",
+  "requestFramePermissions": []
+}
